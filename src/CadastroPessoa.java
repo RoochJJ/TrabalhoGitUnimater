@@ -33,7 +33,7 @@ public class CadastroPessoa {
             this.idade = idade;
         }
 
-        @Override
+
         public String toString() {
             return "Pessoa{" +
                     "id=" + id +
